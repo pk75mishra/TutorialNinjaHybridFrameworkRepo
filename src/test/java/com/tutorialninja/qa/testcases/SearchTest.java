@@ -16,6 +16,8 @@ import com.tutorialninja.qa.base.Base;
 import com.tutorialninja.qa.pages.HomePage;
 import com.tutorialninja.qa.pages.SearchPage;
 
+//Updated comment- Added more details
+
 public class SearchTest extends Base {
 
 	public WebDriver driver;
